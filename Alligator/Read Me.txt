@@ -1,0 +1,5 @@
+--Alligator Ea--
+Custom Built Trading Advisor Based on the Indicator known as the Alligator.
+	Buys when the green line crosses the red line on the way up.
+	Sells when the green line crosses the red line on the way down.
+
